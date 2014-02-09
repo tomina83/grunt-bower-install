@@ -43,7 +43,7 @@
     "grunt-contrib-watch": "~0.2.0"
   },
   "dependencies": {
-    "wiredep": "~0.5.0",
+    "wiredep": "https://github.com/boneskull/wiredep/archive/v0.6.0.tar.gz",
     "bower-config": "~0.5.0"
   }
 }
